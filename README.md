@@ -1,6 +1,6 @@
 ## Thaynara Santos - Software Engineer
 
-- 🏦 I'm currently working at <a href="https://www.btgpactual.com/">**BTG Pactual**</a>.
+- 🏦 I'm currently working at <a href="https://www.parfin.io/">**Parfin**</a>.
 - 💻 I use daily: `.NetCore`, `C#`, `Python`, `Docker`, `MySQL`, `DynamoDB`, `Elasticsearch` and other great things.
 - 🔎 You can find me on: 
 
