@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=30C7EB&color=071A2C&link=https://www.linkedin.com/in/thaynarasantos/?locale=en_US)](https://www.linkedin.com/in/thaynarasantos/?locale=en_US)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=30C7EB&color=071A2C&link=https://medium.com/@thaynaracsantos)](https://medium.com/@thaynaracsantos)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=30C7EB&color=071A2C&link=https://www.instagram.com/thaynaracsantos)](https://www.instagram.com/thaynaracsantos)
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaynaracsantos&count_private=true&show_icons=true&hide_title=true&theme=react)  
