@@ -1,10 +1,5 @@
 ## Thaynara Santos - Software Engineer
 
-- 🏦 I'm currently working at <a href="https://www.parfin.io/">**Parfin**</a>.
-- 💻 I use daily: `.NetCore`, `C#`, `Python`, `Docker`, `MySQL`, `DynamoDB`, `Elasticsearch` and other great things.
-- 🔎 You can find me on: 
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=30C7EB&color=071A2C&link=https://www.linkedin.com/in/thaynarasantos/?locale=en_US)](https://www.linkedin.com/in/thaynarasantos/?locale=en_US)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=30C7EB&color=071A2C&link=https://medium.com/@thaynaracsantos)](https://medium.com/@thaynaracsantos)
 
 ### Github Stats
