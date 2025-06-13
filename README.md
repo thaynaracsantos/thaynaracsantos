@@ -12,8 +12,6 @@
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaynaracsantos&theme=react)]()
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaynaracsantos&theme=react)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaracsantos&layout=donut&hide_title=true&theme=react&hide=html,css)]()
 
 ---
